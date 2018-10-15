@@ -6,7 +6,7 @@
 mygarminusername="USERNAME"
 # My Garmin Connect password
 mygarminpassword="PASSWORD"
-# My number of past activities to export from Garmin Conncet
+# My number of past activities to export from Garmin Conncet. Hint: Garmin API limit is 1000 max.
 mynumberofexports="20"
 # My GoldenCheetah backup folder
 mybackupfolder=(~/GoogleDrive/Sport/GoldenCheetah/Backup/)

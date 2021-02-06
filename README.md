@@ -1,7 +1,7 @@
 # Golden-Cheetah-Garmin-Connect
 You are a runner, cyclist or triathlete? You love Golden Cheetah? You track your activities with Garmin devices? You want to download all of them from Garmin Connect?
 
-Okay, last one got already answered within here: [garmin-connect-export](https://github.com/JohannesHeinrich/garmin-connect-export)
+Okay, last one got already answered within here: [garmin-connect-export](https://github.com/johannesh83/garmin-connect-export)
 
 Alright, where´s the problem?!? Rise a feature request and ask for new Golden Cheetah functionality! But exactly this is easier said than done:
 
@@ -22,8 +22,8 @@ If it did not yet happen you need to download the following.
 
 - [Golden Cheetah](http://goldencheetah.org/)
 - [Python](https://www.python.org/downloads/)
-- [My shell script.](https://github.com/JohannesHeinrich/Golden-Cheetah-Garmin-Connect/blob/master/sport.sh) **Continue reading for details.**
-- [Download script for Garmin Connect data](https://github.com/JohannesHeinrich/garmin-connect-export)
+- [My shell script.](https://github.com/johannesh83/Golden-Cheetah-Garmin-Connect/blob/master/sport.sh) **Continue reading for details.**
+- [Download script for Garmin Connect data](https://github.com/johannesh83/garmin-connect-export)
 
 ## Initial configuration
 Follow these steps for the initial configuration.
@@ -222,4 +222,4 @@ The way as the shell script is described has litte to no change of running secur
 
 License
 -------
-[MIT](https://github.com/JohannesHeinrich/Golden-Cheetah-Garmin-Connect/blob/master/LICENSE) &copy; 2018 Johannes Heinrich
+[MIT](https://github.com/johannesh83/Golden-Cheetah-Garmin-Connect/blob/master/LICENSE) &copy; 2018 Johannes Heinrich
